@@ -1,0 +1,9 @@
+{
+    "expenses": [
+        {"id": 1, "title": "Restaurant 1", "category": "Food", "amount": 50, "date": "02-25-2025" },
+        {"id": 2, "title": "Auto 1", "category": "Food", "amount": 500, "date": "02-25-2025" },
+        {"id": 3, "title": "Entertainment 1", "category": "Entertainment", "amount": 450, "date": "02-25-2025" },
+        {"id": 4, "title": "Dating 1", "category": "Dating", "amount": 1000, "date": "02-25-2025" },
+        {"id": 5, "title": "Travel 1", "category": "Travel", "amount": 50, "date": "02-25-2025" }
+    ]
+}
