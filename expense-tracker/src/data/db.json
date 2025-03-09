@@ -4,6 +4,16 @@
         {"id": 2, "title": "Auto 1", "category": "Food", "amount": 500, "date": "02-25-2025" },
         {"id": 3, "title": "Entertainment 1", "category": "Entertainment", "amount": 450, "date": "02-25-2025" },
         {"id": 4, "title": "Dating 1", "category": "Dating", "amount": 1000, "date": "02-25-2025" },
-        {"id": 5, "title": "Travel 1", "category": "Travel", "amount": 50, "date": "02-25-2025" }
+        {"id": 5, "title": "Travel 1", "category": "Travel", "amount": 50, "date": "02-25-2025" },
+        {"id": 6, "title": "Restaurant 1", "category": "Food", "amount": 50, "date": "02-25-2025" },
+        {"id": 7, "title": "Auto 2", "category": "Food", "amount": 500, "date": "02-25-2025" },
+        {"id": 8, "title": "Entertainment 2", "category": "Entertainment", "amount": 450, "date": "02-25-2025" },
+        {"id": 9, "title": "Dating 2", "category": "Dating", "amount": 1000, "date": "02-25-2025" },
+        {"id": 10, "title": "Travel 2", "category": "Travel", "amount": 50, "date": "02-25-2025" },
+        {"id": 11, "title": "Restaurant 3", "category": "Food", "amount": 50, "date": "02-25-2025" },
+        {"id": 12, "title": "Auto 3", "category": "Food", "amount": 500, "date": "02-25-2025" },
+        {"id": 13, "title": "Entertainment 3", "category": "Entertainment", "amount": 450, "date": "02-25-2025" },
+        {"id": 14, "title": "Dating 3", "category": "Dating", "amount": 1000, "date": "02-25-2025" },
+        {"id": 15, "title": "Travel 3", "category": "Travel", "amount": 50, "date": "02-25-2025" }
     ]
 }
